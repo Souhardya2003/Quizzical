@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quizzical</string>
+
+    <string name="question1">1. If A+B=2C and C+D=2A, then:</string>
+    <string name="question2">2. Select the correct set of symbols which will fit in the given equation ?</string>
+    <string name="question2part2">5 0 3 5=20</string>
+    <string name="question3" >3. A is B\'s sister. C is B\'s mother. D is C\'s father. E is D\'s mother. Then how is A related to D?</string>
+    <string name="question4">4. In a certain code language COMPUTER is written as RFUVQNPC. How will MEDICINE be written in that code language? </string>
+    <string name="question5">5. If you write down all the numbers from 1 to 100, then how many times do you write 3?</string>
+    <string name="question6">6. Pointing towards a lady, Neeraj said: "She is the only daughter of the only child of my grandmother". How is the lady related to Neeraj?</string>
+    <string name="question7">7. Shoe always has ___</string>
+    <string name="question8">8. The day before yesterday was Saturday. What day it will be the day after tomorrow?</string>
+    <string name="question9">9. In a maths class, Riki divides 60 chalk sticks by half and add fifteen. What answer does she show the class?</string>
+    <string name="question10part1">10. Choose the most meaningful sequence for the following words.</string>
+    <string name="question10part2">1.Job 2.Independence 3.Study 4.Income 5.Exam</string>
+
+
+    <string name="option1OfQues1">A+C=B+D</string>
+    <string name="option1OfQues2"></string>
+    <string name="option1OfQues3"></string>
+    <string name="option1OfQues4"></string>
+    <string name="option1OfQues5"></string>
+    <string name="option1OfQues6"></string>
+    <string name="option1OfQues7"></string>
+    <string name="option1OfQues8"></string>
+    <string name="option1OfQues9"></string>
+    <string name="option1OfQues10"></string>
+
+
+    <string name="option2OfQues1">A+C=2D</string>
+    <string name="option2OfQues2"></string>
+    <string name="option2OfQues3"></string>
+    <string name="option2OfQues4"></string>
+    <string name="option2OfQues5"></string>
+    <string name="option2OfQues6"></string>
+    <string name="option2OfQues7"></string>
+    <string name="option2OfQues8"></string>
+    <string name="option2OfQues9"></string>
+    <string name="option2OfQues10"></string>
+
+
+    <string name="option3OfQues1">A+D=B+C</string>
+    <string name="option3OfQues2"></string>
+    <string name="option3OfQues3"></string>
+    <string name="option3OfQues4"></string>
+    <string name="option3OfQues5"></string>
+    <string name="option3OfQues6"></string>
+    <string name="option3OfQues7"></string>
+    <string name="option3OfQues8"></string>
+    <string name="option3OfQues9"></string>
+    <string name="option3OfQues10"></string>
+
+
+    <string name="option4OfQues1">A+C=2B</string>
+    <string name="option4OfQues2"></string>
+    <string name="option4OfQues3"></string>
+    <string name="option4OfQues4"></string>
+    <string name="option4OfQues5"></string>
+    <string name="option4OfQues6"></string>
+    <string name="option4OfQues7"></string>
+    <string name="option4OfQues8"></string>
+    <string name="option4OfQues9"></string>
+    <string name="option4OfQues10"></string>
+
+
+</resources>
